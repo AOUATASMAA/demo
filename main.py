@@ -1,2 +1,0 @@
-import pivotel.py
-
